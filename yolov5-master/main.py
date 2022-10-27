@@ -1,0 +1,1 @@
+import detect --weights runs/train/exp27/weights/last.pt --img 640 --conf 0.25 --source ayam.mp4 
